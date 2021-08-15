@@ -7,7 +7,7 @@
     <groupId>game-2048</groupId>
     <artifactId>game-2048</artifactId>
     <version>1.0.3</version>
-
+    <packaging>war</packaging>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
